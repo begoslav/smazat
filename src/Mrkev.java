@@ -1,4 +1,4 @@
-public abstract class Mrkev extends Flower{
+public class Mrkev extends Flower{
     public Mrkev() {
         super("Mrkev", 0.5, 1.0, 0.8);
     }
