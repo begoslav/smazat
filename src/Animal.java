@@ -4,6 +4,7 @@ public abstract class Animal {
     protected String name;
     protected Size size;
     protected String specialCare;
+    public abstract void pohladit();
 
     @Override
     public String toString() {
